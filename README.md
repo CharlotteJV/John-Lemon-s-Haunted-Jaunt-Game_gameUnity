@@ -16,7 +16,7 @@
         <li> Join John Lemon, the lovable protagonist, on an exciting and humorous adventure through a mysterious haunted house. </li>
         <li> This Unity game offers gameplay that is easy to grasp, making it suitable for players aged 13 and above. </li> 
         <li> Solve engaging puzzles, navigate treacherous traps, and embark on a journey filled with surprises. </li>
-        <li>  Get ready for a spine-tingling and entertaining experience with John Lemon's Haunted Jaunt! </li>
+        <li>  Prepare for a thrilling and entertaining adventure with John Lemon's Haunted Jaunt!</li>
     </ul>
 </div>
 
